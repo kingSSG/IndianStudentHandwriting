@@ -20,7 +20,8 @@ The following images illustrate the segmentation process:
 
 After segmentation, the extracted words are saved as separate image files:
 
-![WhatsApp Image 2025-03-07 at 22 37 54_3ba4907f](https://github.com/user-attachments/assets/24512f3a-d9d5-4822-a89e-8993e0c126d2)
+![Capture](https://github.com/user-attachments/assets/eb8ce9fd-32f1-446c-a592-841a4d310e93)
+
 
 ## Installation & Usage
 
